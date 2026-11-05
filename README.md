@@ -1,4 +1,4 @@
-# Hackathon-Grade RAG Documentation Chatbot
+# Grade RAG Documentation Chatbot
 
 ## Problem Statement
 Users need to ask complex questions across multiple large PDF documents and receive accurate, highly-grounded answers without hallucinations. Traditional vector-search alone often fails at exact keyword matching (like SKUs or specific years) and naive chunking destroys structural context.
